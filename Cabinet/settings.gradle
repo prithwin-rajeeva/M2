@@ -1,0 +1,3 @@
+rootProject.name = 'M2'
+include "cpu"
+include "storage"
