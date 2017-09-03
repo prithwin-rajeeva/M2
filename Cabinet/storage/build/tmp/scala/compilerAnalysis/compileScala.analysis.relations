@@ -1,0 +1,13 @@
+products:
+   src/main/scala/RamModule.scala -> build/classes/scala/main/com/m2/storage/RamModule$$anonfun$1.class
+   src/main/scala/RamModule.scala -> build/classes/scala/main/com/m2/storage/RamModule$$anonfun$spill$1.class
+   src/main/scala/RamModule.scala -> build/classes/scala/main/com/m2/storage/RamModule.class
+binary dependencies:
+   src/main/scala/RamModule.scala -> /home/prajeeva/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.10.6/421989aa8f95a05a4f894630aad96b8c7b828732/scala-library-2.10.6.jar
+   src/main/scala/RamModule.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+source dependencies:
+external dependencies:
+class names:
+   src/main/scala/RamModule.scala -> com.m2.storage.RamModule
+   src/main/scala/RamModule.scala -> com.m2.storage.RamModule$$anonfun$1
+   src/main/scala/RamModule.scala -> com.m2.storage.RamModule$$anonfun$spill$1

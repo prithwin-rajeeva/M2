@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/M2.iml" filepath="$PROJECT_DIR$/.idea/modules/M2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/control.iml" filepath="$PROJECT_DIR$/.idea/modules/control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/control_main.iml" filepath="$PROJECT_DIR$/.idea/modules/control_main.iml" group="control" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/control_test.iml" filepath="$PROJECT_DIR$/.idea/modules/control_test.iml" group="control" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cpu.iml" filepath="$PROJECT_DIR$/.idea/modules/cpu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cpu_main.iml" filepath="$PROJECT_DIR$/.idea/modules/cpu_main.iml" group="cpu" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cpu_test.iml" filepath="$PROJECT_DIR$/.idea/modules/cpu_test.iml" group="cpu" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/storage.iml" filepath="$PROJECT_DIR$/.idea/modules/storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/storage_main.iml" filepath="$PROJECT_DIR$/.idea/modules/storage_main.iml" group="storage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/storage_test.iml" filepath="$PROJECT_DIR$/.idea/modules/storage_test.iml" group="storage" />
+    </modules>
+  </component>
+</project>
